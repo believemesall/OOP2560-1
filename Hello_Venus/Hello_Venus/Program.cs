@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hello_world
+namespace Hello_Venus
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Thailand!");
-
+            Console.WriteLine("Hello Venus");
         }
     }
 }
